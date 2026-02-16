@@ -1,5 +1,0 @@
-config SHIELD_DCAMP_COSMOS1_LEFT
-    def_bool $(shields_list_contains,dcamp_cosmos1_left)
-
-config SHIELD_DCAMP_COSMOS1_RIGHT
-    def_bool $(shields_list_contains,dcamp_cosmos1_right)
