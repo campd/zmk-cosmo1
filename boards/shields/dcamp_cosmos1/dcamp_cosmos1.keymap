@@ -17,13 +17,10 @@
                 &kp LCTRL &kp A  &kp S  &kp D  &kp F  &kp G       &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp RBKT
                 &kp LSHFT &kp Z  &kp X  &kp C  &kp V  &kp B       &kp N  &kp M  &kp COMMA &kp DOT &kp SLASH &kp RSHFT
                                  &kp HOME &kp END                      &kp PG_UP &kp PG_DOWN
-
-
                                  &kp ESC &kp LGUI &kp SPACE
                                         &kp LALT &kp SPACE 
                                                                         &kp LEFT &kp RIGHT &kp SPACE
                                                                         &kp SPACE &kp SPACE
-
             >;
         };
     };
